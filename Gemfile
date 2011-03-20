@@ -37,4 +37,5 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'hpricot'
   gem 'heroku'
+  gem 'ruby-debug'
 end
